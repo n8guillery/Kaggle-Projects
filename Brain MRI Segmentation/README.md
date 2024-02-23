@@ -20,8 +20,8 @@ Improvements in progress:
  
 Sources:
 * Ronneberger, O., Fischer, P., & Brox, T. (2015). U-NET: Convolutional Networks for Biomedical Image Segmentation. (https://arxiv.org/pdf/1505.04597.pdf)
-* Kaggle (dataset)
-* https://medium.com/kaggle-blog/carvana-image-masking-challenge-1st-place-winners-interview-78fcc5c887a8
+* Kaggle (kaggle.com/datasets/mateuszbuda/lgg-mri-segmentation/data)
+* Carvana Image Masking Challenge–1st Place Winner’s Interview (medium.com/kaggle-blog/carvana-image-masking-challenge-1st-place-winners-interview-78fcc5c887a8)
 * CS231n Deep Learning for Computer Vision, Stanford Univ.
 
 
